@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ySQyHpGHtgWo/YAg+F5y+7W7K7jCsmPfHu3mLatEmDMI9J5fH77YhnUG4c4DZfBRQXfE+kzBKhcMZu43GQn3bQ==",
+  "success": true,
+  "projectFilePath": "D:\\DevOpssTraining\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nimrah.altaf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.20\\microsoft.netcore.app.runtime.win-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\nimrah.altaf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\nimrah.altaf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.20\\microsoft.aspnetcore.app.runtime.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

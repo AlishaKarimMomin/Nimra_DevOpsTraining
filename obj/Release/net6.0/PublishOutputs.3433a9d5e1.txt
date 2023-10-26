@@ -1,0 +1,7 @@
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\DevOpssTraining\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
